@@ -1,6 +1,6 @@
 package dev.forsythe.cryptotracker.util
 
-import com.forsythe.cryptotracker.R
+import dev.forsythe.cryptotracker.R
 
 fun getDrawableIdForCoin(symbol: String): Int {
     return when (symbol.uppercase()) {
