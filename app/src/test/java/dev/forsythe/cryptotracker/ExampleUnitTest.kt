@@ -1,4 +1,4 @@
-package com.plcoding.cryptotracker
+package dev.forsythe.cryptotracker
 
 import org.junit.Test
 
